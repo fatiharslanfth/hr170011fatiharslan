@@ -1,0 +1,50 @@
+[
+
+
+	{
+
+		"IphoneAdi": "Iphone 7",
+		"IphoneTarihi": "7 Eylül 2016",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/kapak_iphone7.png",
+		"LogoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/iphone7_logo.png",
+		"Aciklama": "iPhone 7, tasarım bakımından iPhone 6s ve iPhone 6 ile aynı çizgide duruyor. Ancak bu durum göze çarpan bazı değişiklikler olmadığı anlamına gelmiyor. Arka panelde bulunan anten şeritlerin yukarıya taşınması, görsel anlamda daha temiz bir görüntü sunuyor fakat arka kısımdaki en büyük farklılık ise yeni çift kamera ile sağlanıyor. 3.5 mm. kulaklık jakıyla ve geleneksel Apple Kulaklıklar'la vedalaşan Apple, yeni akıllı telefonunda stereo hoparlöre yer veriyor ve kulaklık bağlantısını Lightning girişine devrediyor.Apple ayrıca, AirPods, kablosuz kulak içi kulaklıklar ve üç yeni Beats Electronics kulaklık ürünü de dahil olmak üzere, görünüşte iPhone 7 ile kullanılmak üzere tasarlanan birkaç Bluetooth kablosuz kulaklığı açıkladı. Dört ürünün tümünde, Apple W1 olarak bilinen düşük güçlü Bluetooth çalışması ve iOS ve macOS ürünleri ile entegrasyon sağlamak üzere tasarlanmış dahili bir kablosuz çip kullanılıyor.iPhone 7, IP67 seviyesinde su geçirmez bir kasaya sahip. Home tuşu da daha tepkisel ve geri bildirimleri algılayan bir yapıya kavuşuyor. Yeni iPhone ile birlikte renk gamına iki yeni seçenek ekleniyor. Uzay grisine veda eden Apple, onun yerine Siyah ve Simsiyah adını verdiği iki renk seçeneğini getiriyor. Altın rengi, roze altın ve gümüş renk seçenekleri ise varlıklarını sürdürüyor."
+	},
+
+	{
+
+		"IphoneAdi": "Iphone 8",
+		"IphoneTarihi": "22 Eylül 2017",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/kapak_iphone8.png",
+		"LogoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/iphone8_logo.png",
+		"Aciklama": "iPhone 8, Apple tarafından tasarlanan, geliştirilen ve pazarlanan akıllı telefon. 12 Eylül 2017'de iPhone 7 ve iPhone 7 Plus'ın ardından Apple CEO'su Tim Cook tarafından Apple Park kampüsündeki Steve Jobs Tiyatrosu'nda iPhone X'un da duyurulduğu lansmanda duyuruldu. İlk olarak 22 Eylül 2017'de çıkış yapan telefon Türkiye'de 20 Ekim 2017'de satışa sunuldu.IPhone 8, Qi standardında kablosuz şarj özelliğine ve IP67 suya ve toza karşı dayanıklılık sertifikasına sahiptir. Her iki modelde de 64 GB ve 256 GB hafıza seçeneğine sahiptir. Renk seçeneği kendinden önce gelen 6, 6S ve 7 modellerine göre daha azdır; Gümüş, Uzay Grisi ve Altın olmak üzere 3 renk. Her iki modelde retina ekrana sahip, 8 modeli 4.7 inç ekrana ve 1334×750px çözünürlüğe, 8 Plus modeli ise 5.5 inç ve 1920×1080px çözünürlüğüne sahiptir. Cihazın arkası camla kaplı olduğu için önceki modellerdeki gibi plastik anten çizgilerine yer verilmemiştir. iPhone 7'nin kamerasına artı olarak 4k 24fps ve 60fps, ağır çekimde 1080p 240fps video kaydı yapabilir. Plus modellerdeki portre moduna ek olarak 7 Plus'da bulunmayan portre ışığı beta sürümünde sunulmuştur."
+	},
+
+	{
+
+		"IphoneAdi": "Iphone X",
+		"IphoneTarihi": "3 Kasım 2017",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/kapak_iphoneX.png",
+		"LogoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/iphoneX_logo.png",
+		"Aciklama": "iPhone X (10), Apple tarafından tasarlanan, geliştirilen ve pazarlanan akıllı telefonlardır. 12 Eylül 2017'de Apple CEO'su Tim Cook tarafından Apple Park kampüsündeki Steve Jobs Tiyatrosu'nda iPhone 8'in yanında duyuruldu.Model 3 Kasım 2017'de satışa sunuldu. Modelin adına X denmesinin sebebi, Roma rakamlarında X 10'a denk geliyor ve iPhone'un onuncu yıldönümünü işaret ediyor.Apple'ın ürün yelpazesinde X modeli, gelişmiş teknolojileri sergilemek için tasarlanmış üst düzey bir model olarak konumlandırılmıştır.HomePod yazılımı ve iOS 11'in son sürümü, Apple A11 yongası, neredeyse çerçevesiz tasarım ve fiziksel ev düğmesi, bir OLED ekranı, gelişmiş derinlik algılamalı çift kamera ve Face ID olarak bilinen bir yüz tanıma sistemi de bulunuyor."
+	},
+
+	{
+
+		"IphoneAdi": "Iphone 11",
+		"IphoneTarihi": "10 Eylül 2019",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/kapak_iphone11.png",
+		"LogoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/iphone11_logo.png",
+		"Aciklama": "iPhone 11, Apple tarafından 10 Eylül 2019'da iPhone 11 Pro ve ile birlikte tanıtılan iPhone serisinin 13. modeli.Cihazda A13 Bionic çipi ve ultra geniş kamera sistemi bulunmaktadır.iPhone 11 Pro'da yeni bir 18W hızlı şarj cihazı bulunurken, iPhone 11'de önceki nesil cihazlarda bulunan 5W şarj aletine sahiptir.Üç dahili depolama seçeneğine sahiptir: 64 GB, 128 GB ve 256 GB. Aynı zamanda 4 GB RAM'e sahiptir. iPhone 11, IP68 suya ve toza karşı dayanıklılıkta, kir ve kirin yanı sıra iki metrede 30 dakikaya kadar su geçirmez. Ancak, üretici garantisi telefondaki sıvı hasarlarını kapsamaz. Ayrıca, önceki iPhone'larda olduğu gibi, iPhone 11'in de kulaklık jakı yoktur ve Lightning konektörlü kablolu EarPod'larla birlikte gelir. iPhone 11, Apple U1 yongasıyla yerleşik ultra geniş bant donanımlı ilk akıllı telefondur."
+	},
+
+	{
+
+		"IphoneAdi": "Iphone 12",
+		"IphoneTarihi": "13 Ekim 2020",
+		"KapakFotoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/kapak_iphone12.png",
+		"LogoUrl": "https://raw.githubusercontent.com/fatiharslanfth/hr170011fatiharslan/main/iphone12_logo.png",
+		"Aciklama": "iPhone 12 ve 12 Mini'de Apple A14 çipi yer almaktadır. 6 GB RAM'e sahip olan 12 serisinin depolama seçenekleri ise: 64, 128 ve 256 GB olarak üçe ayrılmıştır.Ayrıca IP68 sertifikasına da sahiptir.iPhone 12'nin kutusundan karbon emisyonunu azaltmak amacıyla, AirPods, adaptör ve Lightning kablosu çıkmamakta.Onun yerine USB-C uçlu bir kabloyu Lightning'e çeviren bir adaptör çıkmaktadır. Ayrıca Lightning ve Qi kablosuz şarjına ek olarak iPhone 12, MagSafe kablosuz şarj ile şarj edilebilir.Ayrıca 12 ve 12 Mini 5G teknolojisini de desteklemektedir. Buna göre 200 Mbps'e kadar yükleme hızlarını ve 4 Gbps'e kadar indirme hızlarını desteklemesini sağlar.Ancak, yalnızca ABD'de satılan modeller en hızlı mmWave teknolojisini destekler; Kanada dahil dünyanın başka yerlerinde satılanlar yalnızca 6 GHz altı frekans bantlarını destekler."
+	}
+
+
+]
